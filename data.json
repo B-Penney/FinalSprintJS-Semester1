@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John",
+        "age": 25,
+        "city": "New York",
+        "isStudent": true
+    },
+    {
+        "name": "Alice",
+        "age": 30,
+        "city": "Los Angeles",
+        "isStudent": false
+    },
+    {
+        "name": "Bob",
+        "age": 22,
+        "city": "Chicago",
+        "isStudent": true
+    },
+    {
+        "name": "Emily",
+        "age": 27,
+        "city": "San Francisco",
+        "isStudent": false
+    },
+    {
+        "name": "David",
+        "age": 35,
+        "city": "Seattle",
+        "isStudent": false
+    }
+]
